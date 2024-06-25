@@ -1,0 +1,18 @@
+Integrante do nosso grupo:
+Lucas da Cunha
+Igor Bueno
+João Paulo Burgarelli
+Wagner Condé
+
+Integrantes - grupo do projeto que analisamos
+Nicolas Chiaradia
+Luiz Henrique
+Douglas Candido
+
+
+	Relatório
+
+No projeto que recebemos não tem o layout das caixas;
+A visibilidade dos membros das classes;
+No diagrama de classe um objeto de outra classe não pode estar explícito como atributo de outra classe;
+Ausência de métodos, ao menos o escopo;
